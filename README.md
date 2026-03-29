@@ -4,7 +4,7 @@ Aplikasi Kasir/PoS untuk Bisnis Laundry
 
 ## Download
 
-Unduh versi terbaru di [Releases](https://github.com/stargan-id/intikasir/releases/latest).
+Unduh versi terbaru di [Releases](https://github.com/stargan-id/intikasirlaundry/releases/latest).
 
 ### Instalasi
 1. Download file `app-release.apk` dari halaman Releases
